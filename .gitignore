@@ -5,3 +5,6 @@ dist
 .DS_Store
 firebase-debug.log
 firestore-debug.log
+.env.production
+.firebase/
+.fuse_hidden*
